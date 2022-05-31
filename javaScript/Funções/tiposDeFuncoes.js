@@ -32,5 +32,5 @@ const sub = function(num1, num2) {
 const resultSoma = calc(soma, 1, 2);
 const resultSub = calc(sub, 1, 2);
 
-console.log(resultSoma);
+console.log(resultSoma);    
 console.log(resultSub);
