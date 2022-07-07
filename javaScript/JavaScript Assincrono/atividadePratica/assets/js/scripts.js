@@ -1,6 +1,6 @@
 // const BASE_URL = 'https://thatcopy.pw/catapi/rest/';
 // const catBtn = document.querySelector('#change-cat');
-// // const catImg = document.querySelector('#cat');
+// const catImg = document.querySelector('#cat');
 
 // const getCats = async () => {
 //     const data = await fetch(BASE_URL)
