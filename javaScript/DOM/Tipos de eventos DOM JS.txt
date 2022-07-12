@@ -1,0 +1,19 @@
+Tipos de eventos DOM JS
+
+EVETOS DO MOUSE
+mouseover -  é acionado quando um dispositivo ponteiro é movido para o elemento que esteja escutando ou para um de seus filhos.
+
+mouseout - é disparado quando um dispositivo apontador (geralmente um mouse) é usado para mover o cursor para que ele não esteja mais contido no elemento ou em um de seus filhos.
+
+EVENTOS DE CLICK
+
+click - O evento ocorre quando o usuário clica em um elemento.
+
+dbclick -O evento ocorre quando o usuário clica duas vezes em um elemento.
+
+EVENTOS DE ATUALIZAÇÃO 
+change - Ocorre quando o valor de um elemento foi alterado. Para botões de opção e caixas de seleção, o evento onchange ocorre quando o estado verificado foi alterado.
+
+load - O evento onload ocorre quando um objeto é carregado. Onload é mais frequentemente usado dentro do elemento <body> para executar um script uma vez que uma página da Web tenha carregado completamente todo o conteúdo (incluindo imagens, arquivos de script, arquivos CSS, etc.).
+
+Toggle - Método da DOM remove um token existente da lista e retorna false. Se o token não existir, ele será adicionado e a função retornará true.
